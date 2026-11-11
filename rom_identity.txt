@@ -1,0 +1,8 @@
+display_name    = Final Fantasy V
+rom_file        = Final Fantasy V (ESP).sfc
+expected_crc32  = 2996a504
+expected_sha256 = bf643612e343ec90913b1bee9be5160d751769c4195a21ffb692073b4a79b466
+rom_size        = 2621440
+mapping         = hirom
+region          = USA
+game_id         = snesrecomp-2996a504
